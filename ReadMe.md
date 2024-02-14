@@ -1,7 +1,6 @@
 # Invoice Processing Using Detectron2
 
-Invoice Processing model detect the fields using detectron2 inside the invoice and return extracted fields
-
+DeepDoc-Extract-Advanced-NLP-Document-Classification-and-Information-Retrieval-System
 ### Installation
 
 requires [python](https://www.python.org/download/releases/3.0/) v3(3.6.9) to run.
