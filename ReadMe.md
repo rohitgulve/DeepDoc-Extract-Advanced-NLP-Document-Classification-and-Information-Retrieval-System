@@ -1,4 +1,4 @@
-# Invoice Processing Using Detectron2
+# DeepDoc-Extract-Advanced-NLP-Document-Classification-and-Information-Retrieval-System
 
 DeepDoc-Extract-Advanced-NLP-Document-Classification-and-Information-Retrieval-System
 ### Installation
