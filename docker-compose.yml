@@ -1,0 +1,9 @@
+version: '2'
+
+services:
+    invoice_app:
+        image: invoiceextraction_new
+        volumes:
+             - ./model/:/InvoiceDataExtraction/output
+        ports:
+             - "5005:5000"
