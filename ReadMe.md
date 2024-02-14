@@ -1,7 +1,11 @@
 # DeepDoc-Extract-Advanced-NLP-Document-Classification-and-Information-Retrieval-System
 
-DeepDoc-Extract-Advanced-NLP-Document-Classification-and-Information-Retrieval-System
-### Installation
+Developed a comprehensive deep learning pipeline for document classification and information
+extraction, employing cutting-edge NLP techniques and machine learning algorithms to accurately
+identify and parse critical data points, such as invoice numbers and purchase orders, from diverse
+document formats. This process involved sophisticated text analysis, feature extraction, and the
+application of neural network models to streamline document processing workflows and enhance data
+retrieval accuracy.### Installation
 
 requires [python](https://www.python.org/download/releases/3.0/) v3(3.6.9) to run.
 
